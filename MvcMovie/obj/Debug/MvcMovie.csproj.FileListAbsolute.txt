@@ -81,3 +81,7 @@ C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.dll
 C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.xml
 C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
+C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\KHANG\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
